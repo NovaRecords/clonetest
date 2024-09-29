@@ -5,5 +5,5 @@
 
 # Funktioniert
 
-    * Also der clone hat sehr gut geklappt. Jetzt werde ich den file adden, commiten uns zu GitHub
-      pushen. Mal sehen.
+  * Also der clone hat sehr gut geklappt. Jetzt werde ich den file adden, commiten uns zu GitHub
+    pushen. Mal sehen.
